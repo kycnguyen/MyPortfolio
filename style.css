@@ -205,5 +205,9 @@
     ul {
       grid-template-columns: 1fr;
     }
+  
+    #contact img {
+      max-width: 100%;
+    }
   }
   
